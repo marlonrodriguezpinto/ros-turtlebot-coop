@@ -1,0 +1,8 @@
+prefix=/home/marlon/catkin_ws/devel
+
+Name: smach_usecase
+Description: Description of smach_usecase
+Version: 0.0.0
+Cflags: -I/home/marlon/catkin_ws/devel/include
+Libs: -L/home/marlon/catkin_ws/devel/lib 
+Requires: rospy smach std_srvs turtlesim actionlib_msgs

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marlon/catkin_ws/src/cleaner_Tutorial/src/robot_cleaner.cpp
+ros/ros.h
+/home/marlon/catkin_ws/src/cleaner_Tutorial/src/ros/ros.h
+geometry_msgs/Twist.h
+/home/marlon/catkin_ws/src/cleaner_Tutorial/src/geometry_msgs/Twist.h
+turtlesim/Pose.h
+/home/marlon/catkin_ws/src/cleaner_Tutorial/src/turtlesim/Pose.h
+sstream
+-
+

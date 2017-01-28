@@ -1,0 +1,8 @@
+prefix=/home/marlon/catkin_ws/devel
+
+Name: pi_trees_ros
+Description: Description of pi_trees_ros
+Version: 0.1.1
+Cflags: 
+Libs: -L/home/marlon/catkin_ws/devel/lib 
+Requires: 

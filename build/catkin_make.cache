@@ -1,0 +1,2 @@
+beginner_tutorials:cleaner_Tutorial:cleaner_bot:learning_tf:moveaction:pi_trees/pi_trees:pi_trees/pi_trees_lib:pi_trees/pi_trees_ros:smach:smach_usecase:ueben
+-DCATKIN_DEVEL_PREFIX=/home/marlon/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/marlon/catkin_ws/install -G Unix Makefiles

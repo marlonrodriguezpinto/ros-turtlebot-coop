@@ -1,0 +1,8 @@
+prefix=/home/marlon/catkin_ws/devel
+
+Name: cleaner_bot
+Description: Description of cleaner_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/marlon/catkin_ws/devel/lib 
+Requires: roscpp rospy std_msgs geometry_msgs message_runtime

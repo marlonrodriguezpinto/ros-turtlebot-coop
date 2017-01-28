@@ -1,0 +1,8 @@
+# Define the goal
+uint32 marker_id  # Specify which Marker we want to use
+---
+# Define the result
+uint32 total_goals_reached
+---
+# Define a feedback message
+float32 percent_complete

@@ -1,0 +1,8 @@
+prefix=/home/marlon/catkin_ws/install
+
+Name: mergedStuff1
+Description: Description of mergedStuff1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/marlon/catkin_ws/install/lib 
+Requires: 
